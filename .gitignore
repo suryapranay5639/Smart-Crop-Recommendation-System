@@ -1,0 +1,36 @@
+Python cache
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+Virtual environment
+
+venv/
+env/
+ENV/
+
+Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+Dataset (optional – if large)
+
+*.csv
+
+IDE
+
+.vscode/
+.idea/
+
+OS files
+
+.DS_Store
+Thumbs.db
+
+Build files
+
+build/
+dist/
+*.egg-info/
